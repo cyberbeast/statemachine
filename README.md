@@ -2,7 +2,7 @@
 A collection of embeddable state machine implementations in Go
 
 ## Motivation
-Mostly my curiosity about implementing state machines that demonstrate consistent/predictable behavior on a non-deterministic runtime (aka Go runtime). 
+Mostly my curiosities about implementing predictable/consistent state machines that operate on top of Go's non-deterministic runtime. 
 
 ## Strategies
 * Naive (to be added)
